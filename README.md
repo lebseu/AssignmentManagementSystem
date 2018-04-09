@@ -1,4 +1,4 @@
-# Assignments Management System
+# Introduction
 
 This is a JSP app managing student assignments, with MySQL as the database.
 
